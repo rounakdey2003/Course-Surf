@@ -18,7 +18,6 @@
     <a href="https://course-surf.vercel.app"><b>Explore the App →</b></a>
   </p>
 </div>
----
 
 ##  About CourseSurf
 
