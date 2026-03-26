@@ -11,7 +11,12 @@
 *CourseSurf is a next-generation eLearning platform designed to make online education engaging, interactive, and completely seamless.*
 
 </div>
+<br />
 
+  <p>
+    <a href="https://course-surf.vercel.app"><b>Explore the App →</b></a>
+  </p>
+</div>
 ---
 
 ##  About CourseSurf
